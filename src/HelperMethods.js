@@ -1,0 +1,1 @@
+export let Devicetableheaders=['ID','Temperature','Humidity','Lat','Lng','Name','Status','Total_power_consumption']

@@ -1,0 +1,11 @@
+.cont{
+    display: flex;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+td:nth-child(1) {  
+    background-color: lightblue;
+    text-decoration: underline;
+  }
