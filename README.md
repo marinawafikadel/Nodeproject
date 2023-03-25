@@ -1,3 +1,7 @@
+
+The src folder has imgs, styles folder
+The components are the login.js, Device.js, Home.js
+in order to route from Home to DEvice.js which contain detailed info about device , You have to be admin and you have to click on the id cell which is highlighed in blue
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
